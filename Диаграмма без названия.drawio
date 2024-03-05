@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T14:30:57.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IAL_10vyJNGYJzQB2JNs" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T09:42:01.025Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ycThPUa4ntRxhS3nCRQq" version="24.0.1" type="github">
   <diagram name="Страница — 1" id="sO5Hfu04q_IPDvUDmRCp">
-    <mxGraphModel dx="1195" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,14 +68,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oVD-AEJCte70YSTXyg2e-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-56" target="oVD-AEJCte70YSTXyg2e-58">
+        <mxCell id="oVD-AEJCte70YSTXyg2e-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-56" target="oVD-AEJCte70YSTXyg2e-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-56" value="Спектрометр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="116.25" width="90" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-58" value="CCD-камера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="405" y="175" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-81" value="Инжектор" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="467" width="60" height="40" as="geometry" />
@@ -151,13 +151,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-126" value="Спектрометр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="496.13" width="90" height="32.62" as="geometry" />
+          <mxGeometry x="589" y="498.69" width="90" height="32.62" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-129" target="oVD-AEJCte70YSTXyg2e-156">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-129" value="Лавинные фотодиоды" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="592" y="429.50000000000006" width="80" height="38.62" as="geometry" />
+          <mxGeometry x="594" y="432.75000000000006" width="80" height="38.62" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-131" value="" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="121.25" width="29" height="27.5" as="geometry" />
@@ -192,7 +192,7 @@
         <mxCell id="oVD-AEJCte70YSTXyg2e-143" value="" style="shape=or;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="436" y="501" width="29" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="oVD-AEJCte70YSTXyg2e-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-144" target="oVD-AEJCte70YSTXyg2e-126">
+        <mxCell id="oVD-AEJCte70YSTXyg2e-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-144" target="oVD-AEJCte70YSTXyg2e-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-144" value="" style="shape=or;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
@@ -204,20 +204,20 @@
         <mxCell id="oVD-AEJCte70YSTXyg2e-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-111" target="oVD-AEJCte70YSTXyg2e-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oVD-AEJCte70YSTXyg2e-155" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="423" y="485.13" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oVD-AEJCte70YSTXyg2e-156" target="oVD-AEJCte70YSTXyg2e-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-156" value="Усилитель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="393.25" width="70" height="20" as="geometry" />
+          <mxGeometry x="599" y="396.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-157" value="АЦП" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="348.75" width="44" height="24" as="geometry" />
+          <mxGeometry x="612" y="352" width="44" height="24" as="geometry" />
         </mxCell>
         <mxCell id="oVD-AEJCte70YSTXyg2e-173" value="Биозащита" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="456" y="370.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oVD-AEJCte70YSTXyg2e-155" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="423" y="485.13" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
